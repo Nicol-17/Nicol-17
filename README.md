@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="portafolio.png" width="100%">
+  <img src="portafolio_original.png" width="100%">
 </p>
 # 👋 Hi, I'm Nicolle Dayanna Tovar
 
