@@ -1,7 +1,7 @@
 <p align="center">
   <img src="portafolio_original.png" width="100%">
 </p>
-# 👋 Hi, I'm Nicolle Dayanna Tovar
+# 👋 Hi, I'm Nicolle Dayanna Tovar Rojas
 
 ### Data Analyst | Business Intelligence | AI & Data Science Student
 
